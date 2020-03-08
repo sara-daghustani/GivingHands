@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sara-daghustani/GivingHands/static/css/main.376ba713.chunk.css",
+    "main.js": "/sara-daghustani/GivingHands/static/js/main.92a4c7b8.chunk.js",
+    "main.js.map": "/sara-daghustani/GivingHands/static/js/main.92a4c7b8.chunk.js.map",
+    "runtime-main.js": "/sara-daghustani/GivingHands/static/js/runtime-main.419a5ec2.js",
+    "runtime-main.js.map": "/sara-daghustani/GivingHands/static/js/runtime-main.419a5ec2.js.map",
+    "static/css/2.de424728.chunk.css": "/sara-daghustani/GivingHands/static/css/2.de424728.chunk.css",
+    "static/js/2.68cb65a6.chunk.js": "/sara-daghustani/GivingHands/static/js/2.68cb65a6.chunk.js",
+    "static/js/2.68cb65a6.chunk.js.map": "/sara-daghustani/GivingHands/static/js/2.68cb65a6.chunk.js.map",
+    "index.html": "/sara-daghustani/GivingHands/index.html",
+    "precache-manifest.7c715654d148345ee34e108e9eeb667e.js": "/sara-daghustani/GivingHands/precache-manifest.7c715654d148345ee34e108e9eeb667e.js",
+    "service-worker.js": "/sara-daghustani/GivingHands/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/sara-daghustani/GivingHands/static/css/2.de424728.chunk.css.map",
+    "static/css/main.376ba713.chunk.css.map": "/sara-daghustani/GivingHands/static/css/main.376ba713.chunk.css.map",
+    "static/js/2.68cb65a6.chunk.js.LICENSE.txt": "/sara-daghustani/GivingHands/static/js/2.68cb65a6.chunk.js.LICENSE.txt",
+    "static/media/Newpost.css": "/sara-daghustani/GivingHands/static/media/signin.40ee52b4.png",
+    "static/media/Sign.css": "/sara-daghustani/GivingHands/static/media/signup.ca885427.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.419a5ec2.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.68cb65a6.chunk.js",
+    "static/css/main.376ba713.chunk.css",
+    "static/js/main.92a4c7b8.chunk.js"
+  ]
+}
