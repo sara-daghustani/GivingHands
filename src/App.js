@@ -11,7 +11,7 @@ import {
 import Signin from './Sign/Signin';
 
 function App() {
-  var prePath = "/sara-daghustani/GivingHands";
+  var prePath = "sara-daghustani.github.io/GivingHands/";
   return (
     
       <div> 
