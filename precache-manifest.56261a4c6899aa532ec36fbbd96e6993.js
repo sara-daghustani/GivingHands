@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ebd85a4021a910fc424cf610e81d23c",
+    "revision": "8f637722bc4ad93be70b3ca8609405b4",
     "url": "/sara-daghustani/GivingHands/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sara-daghustani/GivingHands/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "fb1c7d887a1e6e6ef605",
+    "revision": "858a1fe47e42b7f4d8c2",
     "url": "/sara-daghustani/GivingHands/static/css/main.376ba713.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sara-daghustani/GivingHands/static/js/2.8baa3ab2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb1c7d887a1e6e6ef605",
-    "url": "/sara-daghustani/GivingHands/static/js/main.ed71934c.chunk.js"
+    "revision": "858a1fe47e42b7f4d8c2",
+    "url": "/sara-daghustani/GivingHands/static/js/main.71c96533.chunk.js"
   },
   {
     "revision": "f664f6e10a2c2a7566ba",
