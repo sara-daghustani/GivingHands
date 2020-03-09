@@ -11,17 +11,19 @@ import {
 import Signin from './Sign/Signin';
 
 function App() {
-  var prePath = "sara-daghustani.github.io/GivingHands/";
+  // var prePath = "sara-daghustani.github.io/GivingHands/";
+  var prePath = "/";
   return (
     
       <div> 
         <NavbarMain />
         <Router>
 
-            <Route path={prePath + "/newpost"} component={Newpost} />
+            <Route exact path={"/newpost"} component={Newpost} />
             <Route exact path={prePath + "/"} component={Home} />
-            <Route path={prePath +"/signup"} component={Signup} />
-            <Route path={prePath +"/signin"} component={Signin} />
+            {/* <Route path={"/"} component={Home} /> */}
+            <Route exact path="/signup" component={Signup} />
+            <Route exact path="/signin" component={Signin} />
  
         </Router> 
       </div>  
