@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sara-daghustani/GivingHands/precache-manifest.7c715654d148345ee34e108e9eeb667e.js"
+  "/sara-daghustani/GivingHands/precache-manifest.d660ae8c20ed1f6c91378db0f839a18b.js"
 );
 
 self.addEventListener('message', (event) => {
