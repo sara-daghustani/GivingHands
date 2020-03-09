@@ -1,6 +1,5 @@
 {
-  "homepage": "https://github.com/sara-daghustani/GivingHands",
-  "name": "hands-giving",
+  "name": "GivingHands",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
